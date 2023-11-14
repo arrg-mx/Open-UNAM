@@ -46,4 +46,4 @@ Diseñar he implementar una plataforma de pruebas basada en los parámetros del 
 2. Documentacion DYNAMIXEL Shield [emanual] (https://emanual.robotis.com/docs/en/parts/interface/dynamixel_shield/)
 3. Documentacion OpenManipulator [emanual] (https://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/)
 4. Repositorio ROS [github](https://github.com/ROBOTIS-GIT/open_manipulator/tree/master)
-5. Archivos de referencia (Carpeta de CAD) [onshape] (https://emanual.robotis.com/docs/en/parts/controller/opencr10/)
+5. Archivos de referencia (Carpeta de CAD) [onshape] (http://www.robotis.com/service/download.php?no=690)
