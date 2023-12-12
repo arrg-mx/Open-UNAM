@@ -1,5 +1,5 @@
-# Titulo
+# Conexión del motor AX-18A con Mathlab
 
 
 
-## Sub
+## Conexión del programa con el Dynamixel Wizard:
