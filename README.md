@@ -13,8 +13,8 @@ Diseñar he implementar una plataforma de pruebas basada en los parámetros del 
 
 ## Desarrollo
 
-- [ ] Diseñar el modelo virtual de la platadorma del robot con 5 grados de libertad.
-- [ ] Cálcular el modelo cinemático inverso de las velocidades del robot para la realización de trayectorias.
+- [X] Diseñar el modelo virtual de la platadorma del robot con 5 grados de libertad.
+- [x] Cálcular el modelo cinemático inverso de las velocidades del robot para la realización de trayectorias.
 - [ ] Implementar el modelo en Simulink del control del robot.
 - [ ] Realizar pruebas de funcionamiento del sistema realizando una tarea simple.
 
