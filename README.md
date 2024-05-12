@@ -18,21 +18,31 @@ Diseñar he implementar una plataforma de pruebas basada en los parámetros del 
 - [ ] Implementar el modelo en Simulink del control del robot.
 - [ ] Realizar pruebas de funcionamiento del sistema realizando una tarea simple.
 
+Metas 2024-2
+- [ ] Hacer una revisión de los componentes con los que se cuentan para la construcción del robot.
+- [ ] Realizar la manufactura de las piezas del robot y realizar pruebas de ensamble.
+- [ ] Rediseñar la base del robot para que el robot sea estable y garantice el correcto funcionamiento de su actuador.
+- [ ] Trabajar en una interfaz de control de los motores en Matlab para que el robot realice una tarea específica. 
+
 
 	
 ## Equipo
 
 **Integrantes del proyecto:**
 
-| Nombre | Observaciones |
-| :----------| :----------- |
-| Erik Peña Medina | **responsable** |
-| Díaz Alcalá Leslie Zahori | **Participante 2024-1** | 
-| Chavez López Ana Rosa | **Participante 2024-1** |
-| Rosas Torres Brian Ulises | **Participante 2024-1** |
-| Pazarán García Jared | **Participante 2024-1** |
-| Muñoz Ng Gustavo  | **Participante 2024-1** |
-| Laureano Uribe Diego  | **Participante 2024-1** |
+| Nombre | Observaciones | Semestre |
+| :----------| :----------- | :----------- |
+| M.I. Erik Peña Medina | **Responsable** | ---- |
+| Díaz Alcalá Leslie Zahori | **Participante** | 2024-1 |
+| Chavez López Ana Rosa | **Participante** | 2024-1 |
+| Rosas Torres Brian Ulises | **Participante** | 2024-1 |
+| Pazarán García Jared | **Participante** | 2024-1 |
+| Muñoz Ng Gustavo  | **Participante** | 2024-1 |
+| Laureano Uribe Diego  | **Participante** | 2024-1 |
+| Colima Flores Mauricio Gibran  | **Participante** | 2024-2 |
+| Pascual Hernández Daniel Alfonso   | **Participante** | 2024-2 |
+| Vilchis Torres Itzel   | **Participante** | 2024-2 |
+| Rivera Moreno Javier   | **Participante** | 2024-2 |
 
 
 
